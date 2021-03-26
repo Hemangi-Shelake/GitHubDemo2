@@ -8,6 +8,8 @@ public class LoginPage {
 		
 		System.out.println("Tester changes after clonning");
 		
+		System.out.println("Fixed comments");
+		
 	}
 
 }
