@@ -6,6 +6,8 @@ public class LoginPage {
 		
 		System.out.println("Second commit");
 		
+		System.out.println("Tester changes after clonning");
+		
 	}
 
 }
